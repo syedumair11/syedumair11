@@ -12,8 +12,7 @@
 * 💻 Passionate about **Backend Development (Java)**
 * 🌱 Currently learning **Spring Boot, Microservices & API Integration**
 * ⚙️ Strong in **Java, C, Python**
-* 🌐 Basic knowledge of **HTML, CSS, JavaScript, PHP**
-* 🎯 Goal: Become a **Professional Backend Engineer**
+* 🎯 Focused on building **scalable backend systems**
 
 ---
 
@@ -39,13 +38,52 @@
 
 ---
 
+## 🧩 Core Computer Science
+
+### 🔹 Data Structures
+
+* Arrays
+* Linked List
+* Stack
+* Queue
+* ArrayList
+* Set & Map
+* Java Collections Framework
+
+### 🔹 Algorithms
+
+* Searching & Sorting
+* Time & Space Complexity
+* Problem Solving
+
+### 🔹 Core Java Concepts
+
+* Object-Oriented Programming (OOP)
+* Multithreading
+* Exception Handling
+* JDBC
+
+---
+
 ## 🚀 Featured Projects
+
+### 🔹 FinShiksha: AI Powered Financial Wisdom
+
+📌 AI-based platform for financial education and smart insights
+🧠 Features: Intelligent recommendations, financial guidance, data-driven insights
+🔧 Tech: Python, Machine Learning, (Add: Flask / Django / APIs if used)
+🚀 Goal: Help users make smarter financial decisions
+
+🔗 https://github.com/syedumair11/finshiksha
+
+---
 
 ### 🔹 AI-ML Assignments
 
 📌 Collection of ML models & implementations
 🔧 Tech: Python, Scikit-learn
 🔗 https://github.com/syedumair11/AI-ML-Assignments
+
 
 ---
 
@@ -85,6 +123,6 @@
 
 ## ⚡ Fun Fact
 
-💡 *"I enjoy building scalable backend systems and solving real-world problems with code."*
+💡 *"I enjoy building scalable backend systems and solving real-world problems with Java."*
 
 ---
