@@ -67,14 +67,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 FinShiksha: AI Powered Financial Wisdom
+### 🔹 FinShiksha: AI Powered Financial Wisdom  
 
-📌 AI-based platform for financial education and smart insights
-🧠 Features: Intelligent recommendations, financial guidance, data-driven insights
-🔧 Tech: Python, Machine Learning, (Add: Flask / Django / APIs if used)
-🚀 Goal: Help users make smarter financial decisions
+📌 AI-based platform for financial education and smart insights  
 
-🔗 https://github.com/syedumair11/finshiksha
+🧠 Features: Intelligent recommendations, financial guidance, data-driven insights  
+🔧 Tech: Python, Machine Learning, Flask, APIs  
+🚀 Goal: Help users make smarter financial decisions  
+
+🔗 [View Project](https://github.com/syedumair11/finlit-ai)
 
 ---
 
